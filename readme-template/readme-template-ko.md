@@ -7,7 +7,7 @@
 
 한 두 문단으로 프로젝트 소개 글을 작성합니다.
 
-![](../header.png)
+![](http://via.placeholder.com/350x150)
 
 ## 설치 방법
 
